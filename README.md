@@ -10,8 +10,8 @@ This repository was created in the intention of helping the devolpers master the
 2. Node Js 
 3. Express
 4. Database
-    - Mongodb
-    - PostgreSQL
+    - 4.1 MongoDB
+    - 4.2 PostgreSQL
 5. React
 
 ---
@@ -27,3 +27,29 @@ This repository was created in the intention of helping the devolpers master the
 - 📜 [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&ab_channel=TraversyMedia)
 - 📜 [JavaScript DOM Crash Course - Part 1 - Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc&ab_channel=TraversyMedia)
 - 📜 [Javascript Classes — Under The Hood](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
+
+
+---
+
+
+## 4.1. MongoDB
+
+- 📜 [MongoDB: An introduction](https://www.geeksforgeeks.org/mongodb-an-introduction/)
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+- 📜 []()
+
+
