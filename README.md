@@ -26,3 +26,4 @@ This repository was created in the intention of helping the devolpers master the
 - 📜 [What Makes Javascript Weird...and AWESOME](https://www.youtube.com/watch?v=JEq7Ehw-qk8&ab_channel=LearnCode.academy)📜 [What Makes Javascript Weird...and AWESOME](https://www.youtube.com/watch?v=JEq7Ehw-qk8&ab_channel=LearnCode.academy)
 - 📜 [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&ab_channel=TraversyMedia)
 - 📜 [JavaScript DOM Crash Course - Part 1 - Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc&ab_channel=TraversyMedia)
+- 📜 [Javascript Classes — Under The Hood](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
