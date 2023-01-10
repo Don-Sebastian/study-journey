@@ -36,20 +36,5 @@ This repository was created in the intention of helping the devolpers master the
 
 - 📜 [MongoDB: An introduction](https://www.geeksforgeeks.org/mongodb-an-introduction/)
 - 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
-- 📜 []()
 
 
